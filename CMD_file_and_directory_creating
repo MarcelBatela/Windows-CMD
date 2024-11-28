@@ -1,10 +1,11 @@
-La command nous permettant de créer un repertoire (dossier) 
-  mkdir [Nom do dossier à céer]
-  md [Nom do dossier à céer]
+## La command nous permettant de créer un repertoire (dossier) 
 
-  Example:
-        mkdir Dossier1
-        md Dossier1
+#  mkdir [Nom do dossier à céer]
+#  md [Nom do dossier à céer]
+
+#  Example:
+#        mkdir Dossier1
+#        md Dossier1
 
 
 
