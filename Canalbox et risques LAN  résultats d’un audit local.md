@@ -1,5 +1,6 @@
 
-![[canal.jpeg]]
+![canal](https://github.com/user-attachments/assets/fa6fc528-0d9b-4c98-a3f9-cf1369f9bbac)
+
 
 # Résultats d’un audit local
 
@@ -456,17 +457,21 @@ Maintenat que j'ai le code, il faut le tester sur la pager de connexion.  Il fau
 https://my.canalbox.africa/login
 ```
 
-![[login.png]]
+<img width="1062" height="277" alt="login" src="https://github.com/user-attachments/assets/9dc1a896-4a90-4aa9-8662-2cdc2e2b5f4a" />
+
 
 Ici je fournis le code ALCL obtenue pendant l'exploitation
 
-![[log1.png]]
+<img width="1665" height="850" alt="log1" src="https://github.com/user-attachments/assets/155db126-2ea5-49cd-be2d-f525371abb8a" />
+
 
 Je suis maintenant dans le panel d'administration du modem.
 
-![[Capture d’écran_2025-11-02_16-24-11.png]]
+<img width="1919" height="948" alt="Capture d’écran_2025-11-02_16-24-11" src="https://github.com/user-attachments/assets/ce3316f2-1346-4ac1-a852-c44cd279bf5e" />
 
-![[Capture d’écran_2025-11-02_16-24-25.png]]
+
+<img width="1920" height="1001" alt="Capture d’écran_2025-11-02_16-24-25" src="https://github.com/user-attachments/assets/60484259-4038-4263-a8e7-a38dd3b522c0" />
+
 
 # Types d’attaques que j'ai realiser:
 
